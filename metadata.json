@@ -1,0 +1,5 @@
+{
+  "name": "HugFusion",
+  "description": "An AI-powered web application that allows users to upload two images of people and generates a new image of them hugging. It uses Google's Nano Banana (gemini-2.5-flash-image) model to create realistic or cartoon-style hugs.",
+  "requestFramePermissions": []
+}
